@@ -64,7 +64,7 @@ El árbol de juego se vería de la siguiente manera, donde los nodos representan
             /               \          
        O en esquina           X en esquina  
         /         \           /         \  
-X en esquina O en esquina  O en esquina X en esquina
+ X en esquina O en esquina  O en esquina X en esquina
 
 
 Este árbol sigue creciendo con los movimientos alternados de los jugadores hasta que el juegop termina.
